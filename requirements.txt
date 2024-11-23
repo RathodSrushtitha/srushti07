@@ -1,0 +1,7 @@
+langchain_google_genai
+faiss-cpu
+langchain_groq
+langchain_community
+pypdf
+python-dotenv
+reportlab
